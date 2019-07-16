@@ -1,0 +1,7 @@
+.ponto{
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background-color: #FFFF00;
+    position: absolute;
+}
